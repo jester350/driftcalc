@@ -1,9 +1,12 @@
-<input type="hidden" id="eventtz" name="eventtz" value="+7">
+<input id="eventtz" name="eventtz" type="hidden" value="+4" />
 <script id="events-data" type="application/json">
     [
-      { "name": "Qualifying", "stime": "2023-04-07T15:00:00Z", "etime": "2023-04-07T18:00:00Z" },
-      { "name": "Top 32", "stime": "2023-04-08T10:30:00Z", "etime": "2023-04-08T13:30:00Z" },
-      { "name": "Top 16", "stime": "2023-04-08T15:00:00Z", "etime": "2023-04-08T18:00:00Z" }
+      { "name": "Prospec Qualifying", "stime": "2023-06-22T12:30:00Z", "etime": "2023-06-22T15:30:00Z" },
+      { "name": "Pro Qualifying", "stime": "2023-06-22T20:00:00Z", "etime": "2023-06-22T23:00:00Z" },
+      { "name": "Prospec Top 32", "stime": "2023-06-23T14:00:00Z", "etime": "2023-06-23T17:00:00Z" },
+      { "name": "Prospec Top 16", "stime": "2023-06-23T18:30:00Z", "etime": "2023-06-23T22:00:00Z" },
+      { "name": "Pro Top 32", "stime": "2023-06-24T14:00:00Z", "etime": "2023-06-24T17:00:00Z" },
+      { "name": "Pro Top 16", "stime": "2023-06-24T18:30:00Z", "etime": "2023-06-24T22:00:00Z" }
     ]
 </script>
 <table id="timetable">
@@ -14,7 +17,7 @@
 </tr>
 </tbody>
 </table>
-<code><script src="https://driftcalendar.com/wp-content/themes/photocrati/scripts/timetable_tz.js"></script></code>
+<code><script src="./timetable_tz.js"></script></code>
 <noscript>
-Javascript is disabled 
-</noscript></code>
+<span style="color: #ffff99;">Javascript is disabled 
+</span></noscript>
