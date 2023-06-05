@@ -1,13 +1,11 @@
 <input type="hidden" id="eventtz" name="eventtz" value="+7">
-
-  <script id="events-data" type="application/json">
+<script id="events-data" type="application/json">
     [
       { "name": "Qualifying", "stime": "2023-04-07T15:00:00Z", "etime": "2023-04-07T18:00:00Z" },
       { "name": "Top 32", "stime": "2023-04-08T10:30:00Z", "etime": "2023-04-08T13:30:00Z" },
       { "name": "Top 16", "stime": "2023-04-08T15:00:00Z", "etime": "2023-04-08T18:00:00Z" }
     ]
-  </script>
-
+</script>
 <table id="timetable">
 <tbody>
 <tr>
@@ -16,18 +14,7 @@
 </tr>
 </tbody>
 </table>
-
 <code><script src="https://driftcalendar.com/wp-content/themes/photocrati/scripts/timetable_tz.js"></script></code>
-
 <noscript>
-<span style="color: #ffff99;">Javascript is disabled so please check the event page on <a href="https://www.formulad.com/schedule/2023/long-beach" target="_blank" rel="noopener">Formula Drift</a> for times
-</span></noscript></code>
-
-<a href="https://WWW.FORMULAD.COM/LIVE" target="_blank" rel="noopener">Live Stream Link</a>
-
-&nbsp;
-
-Please note times and details are subject to change and we can't be held responsible for any mistakes or changes.
-
-<code><script src="https://driftcalendar.com/wp-content/themes/photocrati/scripts/timezone.js"></script></code>
-<code><script src="https://driftcalendar.com/wp-content/themes/photocrati/scripts/disptext.js"></script></code>
+Javascript is disabled 
+</noscript></code>
